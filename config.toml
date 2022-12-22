@@ -12,8 +12,6 @@ limit = 150
 category = "cs.ML"
 title = "Machine Learning"
 
-
-
 [[sources]]
 limit = 150
 category = "eess.SP"
@@ -28,8 +26,6 @@ title = "Systems and Control"
 limit = 150
 category = "cs.LO"
 title = "Logic in Computer Science"
-
-
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
